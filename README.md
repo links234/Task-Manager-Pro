@@ -50,6 +50,15 @@ PC Control:
 	 - Standby
 	 - Show a message in tray
 
-Pro Cmd GUI for AutoIt3 Script.
+Pro Cmd:
 
+	Command line version for AutoIt3 Script.
+
+Settings: 
+
+	- Enable/Disable F12 shortcut		
+	- Window List filters
+	- Window List refresh time
+	- Posibility to save a log file with every process and window running at that time once every some specified time
+	
 NOTE: it requires to Run As Administrator in order to be fully operational 
